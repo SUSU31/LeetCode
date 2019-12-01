@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2f5bfb9-e9b8-4cb8-ac22-af22f20f3755" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JZoff/5_Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JZoff/5_jumpFloor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JZoff/5_minNumberInRotateArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JZoff/5_reConstructBinaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JZoff/5_stack2queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/6_NumberOf1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/6_Power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/6_jumpFloorII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/6_reOrderArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/6_rectCover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/7_FindKthToTail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/7_HasSubtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/7_Merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/7_Mirror.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/7_printMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/temp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,55 +23,74 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LeetCode$5_jumpFloor.coverage" NAME="5_jumpFloor Coverage Results" MODIFIED="1572699679831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
+    <SUITE FILE_PATH="coverage/LeetCode$7_HasSubtree.coverage" NAME="7_HasSubtree Coverage Results" MODIFIED="1575194577858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$String_to_Integer__atoi_.coverage" NAME="String to Integer (atoi) Coverage Results" MODIFIED="1570078779197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Remove_Nth_Node_From_End_of_List.coverage" NAME="Remove Nth Node From End of List Coverage Results" MODIFIED="1571155711826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Integer_to_Roman.coverage" NAME="Integer to Roman Coverage Results" MODIFIED="1570722922205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$6_reOrderArray.coverage" NAME="6_reOrderArray Coverage Results" MODIFIED="1573463317557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$3Valid_Parentheses.coverage" NAME="3Valid Parentheses Coverage Results" MODIFIED="1572178291685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Generate_Parentheses.coverage" NAME="Generate Parentheses Coverage Results" MODIFIED="1572172875884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$7_FindKthToTail.coverage" NAME="7_FindKthToTail Coverage Results" MODIFIED="1574687888706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
+    <SUITE FILE_PATH="coverage/LeetCode$7_printMatrix.coverage" NAME="7_printMatrix Coverage Results" MODIFIED="1575197644124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$Roman_to_Integer.coverage" NAME="Roman to Integer Coverage Results" MODIFIED="1570956251227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$3Swap_Nodes_in_Pairs.coverage" NAME="3Swap Nodes in Pairs Coverage Results" MODIFIED="1572179114877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$4_Find_target_from_array.coverage" NAME="4_Find target from array Coverage Results" MODIFIED="1572690800685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Letter_Combinations_of_a_Phone_Number.coverage" NAME="Letter Combinations of a Phone Number Coverage Results" MODIFIED="1571653647573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$6_NumberOf1.coverage" NAME="6_NumberOf1 Coverage Results" MODIFIED="1573462434564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$4_Next_Permutation.coverage" NAME="4_Next Permutation Coverage Results" MODIFIED="1572449692169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$4_Search_in_Rotated_Sorted_Array.coverage" NAME="4_Search in Rotated Sorted Array Coverage Results" MODIFIED="1572531755930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$4_replace_space.coverage" NAME="4_replace space Coverage Results" MODIFIED="1572691255541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$5_minNumberInRotateArray.coverage" NAME="5_minNumberInRotateArray Coverage Results" MODIFIED="1572698008711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
-    <SUITE FILE_PATH="coverage/LeetCode$3Sum.coverage" NAME="3Sum Coverage Results" MODIFIED="1570955309175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$5_stack2queue.coverage" NAME="5_stack2queue Coverage Results" MODIFIED="1572695962365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
+    <SUITE FILE_PATH="coverage/LeetCode$6_jumpFloorII.coverage" NAME="6_jumpFloorII Coverage Results" MODIFIED="1573460160549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$Reverse_Integer.coverage" NAME="Reverse Integer Coverage Results" MODIFIED="1570073824145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Palindrome_Number.coverage" NAME="Palindrome Number Coverage Results" MODIFIED="1570079300490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$4_printListFromTailToHead.coverage" NAME="4_printListFromTailToHead Coverage Results" MODIFIED="1572691738176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$5_Fibonacci.coverage" NAME="5_Fibonacci Coverage Results" MODIFIED="1572698623409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$Longest_Palindromic_Substring.coverage" NAME="Longest Palindromic Substring Coverage Results" MODIFIED="1570070582683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$5_reConstructBinaryTree.coverage" NAME="5_reConstructBinaryTree Coverage Results" MODIFIED="1572695203549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$Container_With_Most_Water.coverage" NAME="Container With Most Water Coverage Results" MODIFIED="1569995868702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode.coverage" NAME="LeetCode Coverage Results" MODIFIED="1570807101741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/LeetCode$6_Power.coverage" NAME="6_Power Coverage Results" MODIFIED="1573463018392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
+    <SUITE FILE_PATH="coverage/LeetCode$7_Mirror.coverage" NAME="7_Mirror Coverage Results" MODIFIED="1575195858552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
+    <SUITE FILE_PATH="coverage/LeetCode$Remove_Nth_Node_From_End_of_List.coverage" NAME="Remove Nth Node From End of List Coverage Results" MODIFIED="1571155711826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Integer_to_Roman.coverage" NAME="Integer to Roman Coverage Results" MODIFIED="1570722922205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$6_rectCover.coverage" NAME="6_rectCover Coverage Results" MODIFIED="1573460957659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
+    <SUITE FILE_PATH="coverage/LeetCode$Generate_Parentheses.coverage" NAME="Generate Parentheses Coverage Results" MODIFIED="1572172875884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$3Swap_Nodes_in_Pairs.coverage" NAME="3Swap Nodes in Pairs Coverage Results" MODIFIED="1572179114877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Letter_Combinations_of_a_Phone_Number.coverage" NAME="Letter Combinations of a Phone Number Coverage Results" MODIFIED="1571653647573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$5_minNumberInRotateArray.coverage" NAME="5_minNumberInRotateArray Coverage Results" MODIFIED="1572698008711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
+    <SUITE FILE_PATH="coverage/LeetCode$3Sum.coverage" NAME="3Sum Coverage Results" MODIFIED="1570955309175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Palindrome_Number.coverage" NAME="Palindrome Number Coverage Results" MODIFIED="1570079300490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$4_printListFromTailToHead.coverage" NAME="4_printListFromTailToHead Coverage Results" MODIFIED="1572691738176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$5_Fibonacci.coverage" NAME="5_Fibonacci Coverage Results" MODIFIED="1572698623409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
+    <SUITE FILE_PATH="coverage/LeetCode$7_Merge.coverage" NAME="7_Merge Coverage Results" MODIFIED="1574780614949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JZoff/5_reConstructBinaryTree.py">
+        <entry file="file://$PROJECT_DIR$/JZoff/temp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="16" selection-start-line="24" selection-end-line="25" selection-end-column="16" />
+            <state relative-caret-position="598">
+              <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JZoff/5_Fibonacci.py">
+        <entry file="file://$PROJECT_DIR$/JZoff/7_HasSubtree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" selection-start-line="2" selection-start-column="8" selection-end-line="6" />
+            <state relative-caret-position="376">
+              <caret line="44" lean-forward="true" selection-start-line="30" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JZoff/7_Mirror.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="5" selection-end-line="16" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JZoff/5_jumpFloor.py">
+        <entry file="file://$PROJECT_DIR$/JZoff/7_printMatrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+            <state relative-caret-position="261">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="2" selection-end-line="25" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -113,14 +138,25 @@
         <option value="$PROJECT_DIR$/JZoff/5_minNumberInRotateArray.py" />
         <option value="$PROJECT_DIR$/JZoff/5_Fibonacci.py" />
         <option value="$PROJECT_DIR$/JZoff/5_jumpFloor.py" />
+        <option value="$PROJECT_DIR$/JZoff/6_rectCover.py" />
+        <option value="$PROJECT_DIR$/JZoff/6_jumpFloorII.py" />
+        <option value="$PROJECT_DIR$/JZoff/6_NumberOf1.py" />
+        <option value="$PROJECT_DIR$/JZoff/6_Power.py" />
+        <option value="$PROJECT_DIR$/JZoff/6_reOrderArray.py" />
+        <option value="$PROJECT_DIR$/JZoff/7_FindKthToTail.py" />
+        <option value="$PROJECT_DIR$/JZoff/7_Merge.py" />
+        <option value="$PROJECT_DIR$/JZoff/temp.py" />
+        <option value="$PROJECT_DIR$/JZoff/7_HasSubtree.py" />
+        <option value="$PROJECT_DIR$/JZoff/7_Mirror.py" />
+        <option value="$PROJECT_DIR$/JZoff/7_printMatrix.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="259" />
-    <option name="y" value="42" />
-    <option name="width" value="982" />
-    <option name="height" value="688" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="699" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -148,7 +184,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="D:/Pro/HDT/ssd.pytorch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -164,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5_jumpFloor">
+  <component name="RunManager" selected="Python.7_printMatrix">
     <configuration name="LeetCode" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,7 +219,7 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="5_Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7_FindKthToTail" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,7 +232,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JZoff/5_Fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JZoff/7_FindKthToTail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_jumpFloor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7_HasSubtree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,7 +254,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JZoff/5_jumpFloor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JZoff/7_HasSubtree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_minNumberInRotateArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7_Merge" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,7 +276,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JZoff/5_minNumberInRotateArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JZoff/7_Merge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_reConstructBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7_Mirror" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,7 +298,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JZoff/5_reConstructBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JZoff/7_Mirror.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_stack2queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7_printMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,7 +320,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JZoff/5_stack2queue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JZoff/7_printMatrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,11 +331,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5_jumpFloor" />
-        <item itemvalue="Python.5_Fibonacci" />
-        <item itemvalue="Python.5_minNumberInRotateArray" />
-        <item itemvalue="Python.5_stack2queue" />
-        <item itemvalue="Python.5_reConstructBinaryTree" />
+        <item itemvalue="Python.7_printMatrix" />
+        <item itemvalue="Python.7_Mirror" />
+        <item itemvalue="Python.7_HasSubtree" />
+        <item itemvalue="Python.7_Merge" />
+        <item itemvalue="Python.7_FindKthToTail" />
       </list>
     </recent_temporary>
   </component>
@@ -319,22 +355,27 @@
       <workItem from="1570806059659" duration="20026000" />
       <workItem from="1572441547203" duration="20959000" />
       <workItem from="1573093668926" duration="34000" />
+      <workItem from="1573455052652" duration="6426000" />
+      <workItem from="1574686156961" duration="5778000" />
+      <workItem from="1574778550766" duration="2377000" />
+      <workItem from="1575182077511" duration="3125000" />
+      <workItem from="1575194392277" duration="3256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61135000" />
+    <option name="totallyTimeSpent" value="82097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19062027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19894099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29846153" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27384615" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -466,17 +507,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JZoff/5_minNumberInRotateArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4_Search in Rotated Sorted Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/6_rectCover.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/6_Power.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/6_NumberOf1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/6_jumpFloorII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -494,17 +556,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/5_minNumberInRotateArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/4_replace space.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/4_printListFromTailToHead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="1" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JZoff/5_Fibonacci.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="2" selection-start-column="8" selection-end-line="6" />
+        <state relative-caret-position="92">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JZoff/5_jumpFloor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        <state relative-caret-position="230">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/6_reOrderArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="12" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/7_FindKthToTail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" lean-forward="true" selection-start-line="17" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/7_Merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="13" selection-start-line="37" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/7_HasSubtree.py___jb_tmp___">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="55" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/7_HasSubtree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="44" lean-forward="true" selection-start-line="30" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/7_Mirror.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="5" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/7_printMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="2" selection-end-line="25" selection-end-column="20" />
         </state>
       </provider>
     </entry>
