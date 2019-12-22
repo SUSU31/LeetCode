@@ -95,3 +95,11 @@ class BinaryTree(object):
                 node = stack.pop()
                 print(node.val)
                 node = node.right
+
+
+if __name__ == '__main__':
+    T1 = BinaryTree()
+    a = [1, 2, 3, 4, 5]
+    for t in a:
+        T1.add(t)
+    T1.pre_order_loop()
