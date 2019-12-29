@@ -20,6 +20,7 @@ class Solution:
 
         return idx
 
+
 if __name__ == '__main__':
     S= Solution()
     print(S.strStr("a", 'a'))

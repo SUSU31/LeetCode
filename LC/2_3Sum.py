@@ -8,6 +8,7 @@ class Solution:
             idxDict[num] = idx
         return idx_list
 
+
     def threeSum(self, num):
         num.sort()
         res = dict()

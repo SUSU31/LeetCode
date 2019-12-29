@@ -35,6 +35,7 @@ class Solution:
                 temp_list.append(num)
         return flag
 
+
 if __name__ == '__main__':
     S= Solution()
     A = [

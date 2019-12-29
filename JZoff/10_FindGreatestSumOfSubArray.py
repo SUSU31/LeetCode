@@ -14,6 +14,7 @@ class Solution:
         return temp_max
 
 
+
 if __name__ == '__main__':
     S = Solution()
     print(S.FindGreatestSumOfSubArray([1,-2,3,10,-4,7,2,-5]))

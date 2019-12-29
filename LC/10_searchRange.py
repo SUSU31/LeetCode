@@ -30,6 +30,7 @@ class Solution:
         return re
 
 
+
 if __name__ == '__main__':
     S= Solution()
     print(S.searchRange([1], 1))
