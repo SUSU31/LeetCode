@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2f5bfb9-e9b8-4cb8-ac22-af22f20f3755" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JZoff/10_FindGreatestSumOfSubArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LC/10_isValidSudoku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LC/10_searchRange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LC/10_strStr_WrongAn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/11TimeOut_InversePairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/11_FirstNotRepeatingChar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/11_GetUglyNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/11_NumberOf1Between1AndN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoff/11_PrintMinNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_3Sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Generate Parentheses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Letter Combinations of a Phone Number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Remove Nth Node From End of List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Swap Nodes in Pairs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Valid Parentheses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Next Permutation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Search in Rotated Sorted Array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Container With Most Water.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Integer to Roman.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Longest Palindromic Substring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Palindrome Number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reverse Integer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Roman to Integer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String to Integer (atoi).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LC/10_strStr_WrongAn.py" beforeDir="false" afterPath="$PROJECT_DIR$/LC/WrongAn_10_strStr.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +20,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$9_GetLeastNumbers_Solution.coverage" NAME="9_GetLeastNumbers_Solution Coverage Results" MODIFIED="1576997447355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$7_HasSubtree.coverage" NAME="7_HasSubtree Coverage Results" MODIFIED="1575194577858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$String_to_Integer__atoi_.coverage" NAME="String to Integer (atoi) Coverage Results" MODIFIED="1570078779197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$10_FirstNotRepeatingChar.coverage" NAME="10_FirstNotRepeatingChar Coverage Results" MODIFIED="1578140902422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$9_Convert.coverage" NAME="9_Convert Coverage Results" MODIFIED="1576994136851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$7_FindKthToTail.coverage" NAME="7_FindKthToTail Coverage Results" MODIFIED="1574687888706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$Roman_to_Integer.coverage" NAME="Roman to Integer Coverage Results" MODIFIED="1570956251227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -52,6 +40,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$Generate_Parentheses.coverage" NAME="Generate Parentheses Coverage Results" MODIFIED="1572172875884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Letter_Combinations_of_a_Phone_Number.coverage" NAME="Letter Combinations of a Phone Number Coverage Results" MODIFIED="1571653647573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$10_isValidSudoku.coverage" NAME="10_isValidSudoku Coverage Results" MODIFIED="1577606071093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LC" />
+    <SUITE FILE_PATH="coverage/LeetCode$10_PrintMinNumber.coverage" NAME="10_PrintMinNumber Coverage Results" MODIFIED="1578137690270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$3Sum.coverage" NAME="3Sum Coverage Results" MODIFIED="1570955309175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$4_printListFromTailToHead.coverage" NAME="4_printListFromTailToHead Coverage Results" MODIFIED="1572691738176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$9_Clone.coverage" NAME="9_Clone Coverage Results" MODIFIED="1576853070517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
@@ -59,8 +48,11 @@
     <SUITE FILE_PATH="coverage/LeetCode$8_stackmin.coverage" NAME="8_stackmin Coverage Results" MODIFIED="1576383141054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$6_reOrderArray.coverage" NAME="6_reOrderArray Coverage Results" MODIFIED="1573463317557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$3Valid_Parentheses.coverage" NAME="3Valid Parentheses Coverage Results" MODIFIED="1572178291685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$10_NumberOf1Between1AndN.coverage" NAME="10_NumberOf1Between1AndN Coverage Results" MODIFIED="1578407797658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
+    <SUITE FILE_PATH="coverage/LeetCode$11_InversePairs.coverage" NAME="11_InversePairs Coverage Results" MODIFIED="1578413291555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$7_printMatrix.coverage" NAME="7_printMatrix Coverage Results" MODIFIED="1575197644124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$6_NumberOf1.coverage" NAME="6_NumberOf1 Coverage Results" MODIFIED="1573462434564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
+    <SUITE FILE_PATH="coverage/LeetCode$10_GetUglyNumber.coverage" NAME="10_GetUglyNumber Coverage Results" MODIFIED="1578140185402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$9_Permutation.coverage" NAME="9_Permutation Coverage Results" MODIFIED="1576996543803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
     <SUITE FILE_PATH="coverage/LeetCode$4_Search_in_Rotated_Sorted_Array.coverage" NAME="4_Search in Rotated Sorted Array Coverage Results" MODIFIED="1572531755930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$4_replace_space.coverage" NAME="4_replace space Coverage Results" MODIFIED="1572691255541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -81,53 +73,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$8_VerifySquenceOfBST.coverage" NAME="8_VerifySquenceOfBST Coverage Results" MODIFIED="1576388968934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JZoff" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JZoff/temp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JZoff/10_FindGreatestSumOfSubArray.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LC/10_searchRange.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="33" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LC/10_isValidSudoku.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="38" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LC/10_strStr_WrongAn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -137,21 +83,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>copy</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/String to Integer (atoi).py" />
-        <option value="$PROJECT_DIR$/Palindrome Number.py" />
-        <option value="$PROJECT_DIR$/Container With Most Water.py" />
-        <option value="$PROJECT_DIR$/Integer to Roman.py" />
-        <option value="$PROJECT_DIR$/a.ipynb" />
-        <option value="$PROJECT_DIR$/3Sum.py" />
-        <option value="$PROJECT_DIR$/Roman to Integer.py" />
-        <option value="$PROJECT_DIR$/Remove Nth Node From End of List.py" />
-        <option value="$PROJECT_DIR$/Letter Combinations of a Phone Number.py" />
         <option value="$PROJECT_DIR$/Generate Parentheses.py" />
         <option value="$PROJECT_DIR$/3Valid Parentheses.py" />
         <option value="$PROJECT_DIR$/3Swap Nodes in Pairs.py" />
@@ -187,20 +129,29 @@
         <option value="$PROJECT_DIR$/JZoff/9_Permutation.py" />
         <option value="$PROJECT_DIR$/JZoff/9_MoreThanHalfNum_Solution.py" />
         <option value="$PROJECT_DIR$/JZoff/9_GetLeastNumbers_Solution.py" />
-        <option value="$PROJECT_DIR$/JZoff/10_FindGreatestSumOfSubArray.py" />
         <option value="$PROJECT_DIR$/JZoff/10_NumberOf1Between1AndN_Solution.py" />
-        <option value="$PROJECT_DIR$/JZoff/10_PrintMinNumber.py" />
-        <option value="$PROJECT_DIR$/LC/10_searchRange.py" />
-        <option value="$PROJECT_DIR$/LC/10_isValidSudoku.py" />
         <option value="$PROJECT_DIR$/LC/10_solveSudoku.py" />
         <option value="$PROJECT_DIR$/LC/10_strStr.py" />
+        <option value="$PROJECT_DIR$/LC/10_strStr_WrongAn.py" />
+        <option value="$PROJECT_DIR$/LC/10_searchRange.py" />
+        <option value="$PROJECT_DIR$/JZoff/10_FindGreatestSumOfSubArray.py" />
+        <option value="$PROJECT_DIR$/LC/10_isValidSudoku.py" />
+        <option value="$PROJECT_DIR$/LC/2_3Sum.py" />
+        <option value="$PROJECT_DIR$/LC/3Generate Parentheses.py" />
+        <option value="$PROJECT_DIR$/JZoff/10_NumberOf1Between1AndN.py" />
+        <option value="$PROJECT_DIR$/JZoff/PrintMinNumber.py" />
+        <option value="$PROJECT_DIR$/JZoff/10_PrintMinNumber.py" />
+        <option value="$PROJECT_DIR$/JZoff/10_GetUglyNumber.py" />
+        <option value="$PROJECT_DIR$/JZoff/10_FirstNotRepeatingChar.py" />
+        <option value="$PROJECT_DIR$/JZoff/10_InversePairs.py" />
+        <option value="$PROJECT_DIR$/JZoff/11_InversePairs.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="270" />
-    <option name="y" value="96" />
-    <option name="width" value="699" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
   <component name="ProjectView">
@@ -221,11 +172,6 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="JZoff" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="LC" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -234,6 +180,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -251,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10_strStr">
+  <component name="RunManager" selected="Python.11_InversePairs">
     <configuration name="LeetCode" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,7 +221,7 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="10_FindGreatestSumOfSubArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10_FirstNotRepeatingChar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,7 +234,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JZoff/10_FindGreatestSumOfSubArray.py" />
+      <option name="SCRIPT_NAME" value="D:\FW\LeetCode\JZoff\11_FirstNotRepeatingChar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10_NumberOf1Between1AndN_Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10_GetUglyNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,7 +256,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\FW\LeetCode\JZoff\10_PrintMinNumber.py" />
+      <option name="SCRIPT_NAME" value="D:\FW\LeetCode\JZoff\11_GetUglyNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10_isValidSudoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10_NumberOf1Between1AndN" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,12 +273,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JZoff" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LC/10_isValidSudoku.py" />
+      <option name="SCRIPT_NAME" value="D:\FW\LeetCode\JZoff\11_NumberOf1Between1AndN.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10_searchRange" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10_PrintMinNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -344,12 +295,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JZoff" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LC/10_searchRange.py" />
+      <option name="SCRIPT_NAME" value="D:\FW\LeetCode\JZoff\11_PrintMinNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,7 +309,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10_strStr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11_InversePairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -366,12 +317,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JZoff" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\FW\LeetCode\LC\10_strStr_WrongAn.py" />
+      <option name="SCRIPT_NAME" value="D:\FW\LeetCode\JZoff\11TimeOut_InversePairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10_strStr" />
-        <item itemvalue="Python.10_isValidSudoku" />
-        <item itemvalue="Python.10_searchRange" />
-        <item itemvalue="Python.10_NumberOf1Between1AndN_Solution" />
-        <item itemvalue="Python.10_FindGreatestSumOfSubArray" />
+        <item itemvalue="Python.11_InversePairs" />
+        <item itemvalue="Python.10_NumberOf1Between1AndN" />
+        <item itemvalue="Python.10_FirstNotRepeatingChar" />
+        <item itemvalue="Python.10_GetUglyNumber" />
+        <item itemvalue="Python.10_PrintMinNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -413,22 +364,24 @@
       <workItem from="1575194392277" duration="3755000" />
       <workItem from="1576379350556" duration="13443000" />
       <workItem from="1576848518215" duration="14292000" />
-      <workItem from="1577598631146" duration="10409000" />
+      <workItem from="1577598631146" duration="11693000" />
+      <workItem from="1578109550868" duration="796000" />
+      <workItem from="1578110561587" duration="19060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120740000" />
+    <option name="totallyTimeSpent" value="141880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20953101" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18305598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40153846" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.09076923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -442,7 +395,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32980332" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
@@ -451,78 +404,8 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2_3Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Integer to Roman.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="40" lean-forward="true" selection-start-line="36" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palindrome Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/String to Integer (atoi).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="28" column="12" selection-start-line="25" selection-end-line="28" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reverse Integer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="22" column="12" lean-forward="true" selection-start-line="19" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3Remove Nth Node From End of List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3Letter Combinations of a Phone Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3Valid Parentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3Generate Parentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="30" lean-forward="true" selection-start-line="27" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_Find target from array.py" />
     <entry file="file://$PROJECT_DIR$/4_replace space.py" />
-    <entry file="file://$PROJECT_DIR$/3Swap Nodes in Pairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="7" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/3Swap Nodes in Pairs.py" />
     <entry file="file://$PROJECT_DIR$/4_printListFromTailToHead.py" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -531,20 +414,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Next Permutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="34" column="37" lean-forward="true" selection-start-line="32" selection-end-line="34" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_Search in Rotated Sorted Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Next Permutation.py" />
+    <entry file="file://$PROJECT_DIR$/4_Search in Rotated Sorted Array.py" />
     <entry file="file://$PROJECT_DIR$/JZoff/6_rectCover.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -734,6 +605,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/11_PrintMinNumber.py" />
+    <entry file="file://$PROJECT_DIR$/LC/10_solveSudoku.py" />
+    <entry file="file://D:/BertForKVClassification/BertForKVClassification/IEexamples/IErun_classifier.py" />
+    <entry file="file://D:/BertForKVClassification/BertForKVClassification/pytorch_pretrained_bert/IEmodeling.py" />
+    <entry file="file://C:/ProgramFilesP/Anaconda3/Lib/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="975" column="8" selection-start-line="975" selection-start-column="8" selection-end-line="975" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC/WrongAn_10_strStr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC/3Generate Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC/2_3Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC/10_isValidSudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC/10_searchRange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/10_FindGreatestSumOfSubArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JZoff/temp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -741,45 +665,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JZoff/10_PrintMinNumber.py">
+    <entry file="file://$PROJECT_DIR$/JZoff/11_PrintMinNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/11_NumberOf1Between1AndN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JZoff/11_GetUglyNumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <caret line="23" column="12" selection-start-line="21" selection-end-line="23" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JZoff/10_FindGreatestSumOfSubArray.py">
+    <entry file="file://$PROJECT_DIR$/JZoff/11_FirstNotRepeatingChar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="161">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LC/10_searchRange.py">
+    <entry file="file://$PROJECT_DIR$/JZoff/11TimeOut_InversePairs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LC/10_solveSudoku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LC/10_isValidSudoku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LC/10_strStr_WrongAn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="966">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
         </state>
       </provider>
     </entry>
